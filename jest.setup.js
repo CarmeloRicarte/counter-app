@@ -1,0 +1,1 @@
+import 'whatwg-fetch'; // for use this instead of fetch API
